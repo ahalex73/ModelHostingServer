@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\js\\three.min.js",
+      "PackagePath": "staticwebassets\\js\\three.min.js"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_body_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_body_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_tail_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_tail_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_v1_l1.mtl",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_v1_l1.mtl"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_v1_l1.obj",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_v1_l1.obj"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_wing_big_L_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_wing_big_L_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_wing_big_R_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_wing_big_R_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_wing_details_L_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_wing_details_L_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\airplane\\11803_Airplane_wing_details_R_diff.jpg",
+      "PackagePath": "staticwebassets\\models\\airplane\\11803_Airplane_wing_details_R_diff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\eyeball.mtl",
+      "PackagePath": "staticwebassets\\models\\eyeball\\eyeball.mtl"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\eyeball.obj",
+      "PackagePath": "staticwebassets\\models\\eyeball\\eyeball.obj"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\readme.txt",
+      "PackagePath": "staticwebassets\\models\\eyeball\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\textures\\Eye_D.jpg",
+      "PackagePath": "staticwebassets\\models\\eyeball\\textures\\Eye_D.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\textures\\Eye_N.jpg",
+      "PackagePath": "staticwebassets\\models\\eyeball\\textures\\Eye_N.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\eyeball\\textures\\REF 1.jpg",
+      "PackagePath": "staticwebassets\\models\\eyeball\\textures\\REF 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\wine_bottle\\Wine_bottle.mtl",
+      "PackagePath": "staticwebassets\\models\\wine_bottle\\Wine_bottle.mtl"
+    },
+    {
+      "Id": "C:\\Users\\drago\\Personal Projects\\C#\\ModelHostingServer\\ModelHostingServer\\wwwroot\\models\\wine_bottle\\Wine_bottle.obj",
+      "PackagePath": "staticwebassets\\models\\wine_bottle\\Wine_bottle.obj"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ModelHostingServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ModelHostingServer.props",
+      "PackagePath": "build\\ModelHostingServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ModelHostingServer.props",
+      "PackagePath": "buildMultiTargeting\\ModelHostingServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ModelHostingServer.props",
+      "PackagePath": "buildTransitive\\ModelHostingServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
